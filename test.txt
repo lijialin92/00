@@ -1,3 +1,7 @@
 adfaf
 dfadf
+<<<<<<< HEAD
 bug-1 fix
+=======
+111111111
+>>>>>>> dev
