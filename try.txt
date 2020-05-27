@@ -1,2 +1,5 @@
 try out stash
+<<<<<<< HEAD
 11111
+try remote conflict.
+
