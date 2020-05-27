@@ -1,7 +1,3 @@
 adfaf
 dfadf
-<<<<<<< HEAD
-try out stash
-=======
-bug-1 fix
->>>>>>> 97f0f9b... fix bug-1 in test.txt
+111111111
